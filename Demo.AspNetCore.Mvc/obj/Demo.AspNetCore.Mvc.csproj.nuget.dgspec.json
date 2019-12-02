@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudos\\AspNetCore\\Demo.AspNetCore.MVC\\Demo.AspNetCore.Mvc\\Demo.AspNetCore.Mvc\\Demo.AspNetCore.Mvc.csproj": {}
+    "C:\\Estudos\\AspNetCore\\Demo.AspNetCore.MVC\\Demo.AspNetCore.Mvc\\Demo.AspNetCore.Mvc.csproj": {}
   },
   "projects": {
-    "C:\\Estudos\\AspNetCore\\Demo.AspNetCore.MVC\\Demo.AspNetCore.Mvc\\Demo.AspNetCore.Mvc\\Demo.AspNetCore.Mvc.csproj": {
+    "C:\\Estudos\\AspNetCore\\Demo.AspNetCore.MVC\\Demo.AspNetCore.Mvc\\Demo.AspNetCore.Mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\AspNetCore\\Demo.AspNetCore.MVC\\Demo.AspNetCore.Mvc\\Demo.AspNetCore.Mvc\\Demo.AspNetCore.Mvc.csproj",
+        "projectUniqueName": "C:\\Estudos\\AspNetCore\\Demo.AspNetCore.MVC\\Demo.AspNetCore.Mvc\\Demo.AspNetCore.Mvc.csproj",
         "projectName": "Demo.AspNetCore.Mvc",
-        "projectPath": "C:\\Estudos\\AspNetCore\\Demo.AspNetCore.MVC\\Demo.AspNetCore.Mvc\\Demo.AspNetCore.Mvc\\Demo.AspNetCore.Mvc.csproj",
+        "projectPath": "C:\\Estudos\\AspNetCore\\Demo.AspNetCore.MVC\\Demo.AspNetCore.Mvc\\Demo.AspNetCore.Mvc.csproj",
         "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\AspNetCore\\Demo.AspNetCore.MVC\\Demo.AspNetCore.Mvc\\Demo.AspNetCore.Mvc\\obj\\",
+        "outputPath": "C:\\Estudos\\AspNetCore\\Demo.AspNetCore.MVC\\Demo.AspNetCore.Mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,6 +54,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
             }
           },
           "imports": [
